@@ -11,5 +11,6 @@ var createHelloWorld = function() {
 
 let f = createHelloWorld();
 f([{},null,42]); 
+f(); 
 
  
